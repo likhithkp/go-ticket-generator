@@ -1,0 +1,5 @@
+Nomad Ticket 
+Likhith:                  ...Seat No: 2 ...Destination: Madikeri ...₹650
+Shiba Kumar:              ...Seat No: 3 ...Destination: Madikeri ...₹650
+
+Total:                    ...₹1300
